@@ -36,7 +36,6 @@ Some things live in the dark. Some things escape into the wild. The ones that es
 ## Venture in
 
 👉 Visit the live experiments: **[obscurebit.com](https://www.obscurebit.com)**
-💖 Support the work: **[github.com/sponsors/dudash](https://github.com/sponsors/dudash)**
 
 ---
 
