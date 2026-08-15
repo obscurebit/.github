@@ -1,11 +1,8 @@
 <div align="center">
 
-<!-- Replace the line below with your generated banner image once ready -->
-<!-- <img src="./profile/banner.png" alt="obscurebit banner" width="100%" /> -->
+<img src="https://github.com/user-attachments/assets/c4bf03f8-c508-448c-8c0b-3e9b0999e435" alt="obscurebit — small experiments with software, sound, AI, and design" width="100%" />
 
-# ✦ obscurebit
-
-**Experimenting at the intersection of technology, fun, and design — since 2013.**
+<br/>
 
 [![Website](https://img.shields.io/badge/obscurebit.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.obscurebit.com)
 [![GitHub](https://img.shields.io/badge/@dudash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dudash)
